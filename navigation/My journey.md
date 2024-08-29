@@ -1,7 +1,6 @@
 ---
 layout: page 
 title: my journey
-search_exclude: true
 permalink: /my_journey/
 ---
 # Tool Setup
