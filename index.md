@@ -5,7 +5,6 @@ description: Home Page
 hide: true
 image: /images/mario_animation.png
 ---
-
 My journey starts here.
 <!-- Liquid:  statements -->
 
