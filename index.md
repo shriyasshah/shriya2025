@@ -192,6 +192,6 @@ Hi! My name is Shriya, welcome to my Nighthawk page. I am a junior at Del Norte 
 </script>
 
 <div>
-<button><a herf="http://127.0.0.1:4100/shriya2025/about/">about</a></button>
-<button><a herf="http://localhost:4100/shriya2025/my_journey/">my_journey</a></button>
+<button><a herf="https://shriyasshah.github.io/shriya2025/about/">about</a></button>
+<button><a herf="https://shriyasshah.github.io/shriya2025/my_journey/">my_journey</a></button>
 <div>
