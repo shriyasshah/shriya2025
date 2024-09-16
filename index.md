@@ -5,11 +5,12 @@ description: Home Page
 hide: true
 image: /images/mario_animation.png
 ---
-My journey starts here.
+Hi! My name is Shriya, welcome to my Nighthawk page. I am a junior at Del Norte Highschool and I love to play soccer and hangout with family and friends. I am President of the Garden Tribes club, involved with DNHS Equity and Alliance, and Link Crew! 😍🎀
+
+<img src="{{site.baseurl}}/images/shriya and bella.jpeg" width = "200"  height = "300"/>
 <!-- Liquid:  statements -->
 
 <!-- Include submenu from _includes to top of pages -->
-{% include nav/home.html %}
 <!--- Concatenation of site URL to frontmatter image  --->
 {% assign sprite_file = site.baseurl | append: page.image %}
 <!--- Has is a list variable containing mario metadata for sprite --->
@@ -189,3 +190,8 @@ My journey starts here.
   });
 
 </script>
+
+<div>
+<button><a herf="http://127.0.0.1:4100/shriya2025/about/">about</a></button>
+<button><a herf="http://localhost:4100/shriya2025/my_journey/">my_journey</a></button>
+<div>
