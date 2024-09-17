@@ -22,6 +22,7 @@ plugins:
 header_pages:
   - navigation/calculator.md
   - navigation/snake.md
+  - navigation/cookie.md
   - navigation/blog.md
   - navigation/search.md
   - navigation/about.md
