@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Snake
-peralink: /snake/
+permalink: /snake/
 ---
 
 {% include snake.html %}
