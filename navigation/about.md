@@ -12,3 +12,17 @@ Hi, my name is Shriya and I'm a junior at Del Norte! Outside of school I play so
 <img src="{{site.baseurl}}/images/friends.jpeg" width = "300" height = "300"/>
 <img src="{{site.baseurl}}/images/family.jpeg" width = "300" height = "300"/>
 </span>
+
+
+
+
+
+
+<script src="https://utteranc.es/client.js"
+        repo="shriyasshah/shriya2025"
+        issue-term="title"
+        label="blogpost-comment"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
