@@ -202,4 +202,5 @@ Hi! My name is Shriya, welcome to my Nighthawk page. I am a junior at Del Norte 
 <div>
 <button><a href="https://shriyasshah.github.io/shriya2025/about/">about</a></button>
 <button><a href="https://shriyasshah.github.io/shriya2025/my_journey/">my_journey</a></button>
+<button><a href="{{site.baseurl}}/soccer/">soccer</a></button>
 <div>
