@@ -7,9 +7,9 @@ image: /images/mario_animation.png
 ---
 <table>
     <tr>
-        <td><a href="{{site.baseurl}}/_notebooks/2024-09-19-realityvsexpection.ipynb">{Challenges and Accomplishments}</a></td>
-        <td><a href="{{site.baseurl}}/navigation/calculator.md">{Calculator}</a></td>
-        <td><a href="{{site.baseurl}}/navigation/music.md">{Music}</a></td>
+        <td><a href="{{site.baseurl}}/2024/09/19/realityvsexpection_IPYNB_2_.html">{Challenges and Accomplishments}</a></td>
+        <td><a href="{{site.baseurl}}/calculator">{Calculator}</a></td>
+        <td><a href="{{site.baseurl}}/javascript/project/music-api">{Music}</a></td>
     </tr>
 </table>
 
