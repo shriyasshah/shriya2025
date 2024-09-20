@@ -5,6 +5,14 @@ description: Home Page
 hide: true
 image: /images/mario_animation.png
 ---
+<table>
+    <tr>
+        <td><a href="{https://shriyasshah.github.io/shriya2025/2024/09/19/realityvsexpection_IPYNB_2_.html}">{Challenges and Accomplishments}</a></td>
+        <td><a href="{https://shriyasshah.github.io/shriya2025/calculator/}">{Calculator}</a></td>
+        <td><a href="{https://shriyasshah.github.io/shriya2025/javascript/project/music-api}">{Music}</a></td>
+    </tr>
+</table>
+
 Hi! My name is Shriya, welcome to my Nighthawk page. I am a junior at Del Norte Highschool and I love to play soccer and hangout with family and friends. I am President of the Garden Tribes club, involved with DNHS Equity and Alliance, and Link Crew! 😍🎀
 
 <img src="{{site.baseurl}}/images/shriya and bella.jpeg" width = "200"  height = "300"/>
